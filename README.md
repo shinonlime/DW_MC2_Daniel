@@ -1,12 +1,12 @@
 # DW_MC2_Daniel
 
-Output:
-Name:  Shoto
-Health:  600
-Power:  700
-Exp:  150
-=== Heroes Power Up ===
-Name:  Shoto
-Health:  2400
-Power:  2800
-Exp:  600
+Output: <br/>
+Name:  Shoto <br/>
+Health:  600 <br/>
+Power:  700 <br/>
+Exp:  150 <br/>
+=== Heroes Power Up === <br/>
+Name:  Shoto <br/>
+Health:  2400 <br/>
+Power:  2800 <br/>
+Exp:  600 <br/>
